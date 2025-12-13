@@ -8,8 +8,8 @@
 // @match        https://h5.waimai.meituan.com/waimai/mindex/olist*
 // @match        https://cactivityapi-sc.waimai.meituan.com/h5/package/order-info/order-info*
 // @grant        GM_xmlhttpRequest
-// @downloadURL https://cdn.jsdelivr.net/gh/kmnslocr083/mtquery/mt_query.js
-// @updateURL    https://cdn.jsdelivr.net/gh/kmnslocr083/mtquery/mt_query.js
+// @downloadURL  https://cdn.jsdelivr.net/gh/kmnslocr083/mt_query/mt_query.user.js
+// @updateURL    https://cdn.jsdelivr.net/gh/kmnslocr083/mt_query/mt_query.user.js
 // @run-at       document-end
 // ==/UserScript==
 
