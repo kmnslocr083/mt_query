@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         美团订单时间查询
 // @namespace    http://tampermonkey.net/
-// @version      2.2.0
+// @version      2.2.1
 // @description  查询美团订单状态流程
 // @author       You
 // @match        https://h5.waimai.meituan.com/waimai/mindex/order-detail*
